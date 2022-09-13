@@ -50,7 +50,7 @@ building an initial core team and more thoroughly scoping the project
 - [ ] Scope & prioritize key deliverables
   - Specify technical objectives
   - Produce budget estimate for R Consortium Board if the initiative would 
-    benefit from monetary funding 
+    benefit from monetary funding (Deadline EOY 2022)
 
 ### Milestone 2 (Est. 3 Months)
 
