@@ -48,6 +48,9 @@ building an initial core team and more thoroughly scoping the project
   - Front end & API serving
 - [ ] Itemize blocking uncertainties
 - [ ] Scope & prioritize key deliverables
+  - Specify technical objectives
+  - Produce budget estimate for R Consortium Board if the initiative would 
+    benefit from monetary funding 
 
 ### Milestone 2 (Est. 3 Months)
 
