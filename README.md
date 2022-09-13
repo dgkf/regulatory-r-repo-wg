@@ -21,7 +21,7 @@ In roughly the order in which tasks will be addressed, this work will include
 
 ### Out-of-Scope
 
-- Deciding on exact criteria which meet a qualification criteria (this
+- Deciding on exact criteria required for qualification (this
   discussion is better had by the broader R Validation Hub)
 
 ## Milestones
