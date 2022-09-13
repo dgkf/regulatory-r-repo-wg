@@ -12,7 +12,7 @@ In roughly the order in which tasks will be addressed, this work will include
 - Feature scoping
 - Exploration of feasibility
 - Evaluation of compute hosting and execution options
-- Evaluation of package servers, including
+- Evaluation of package repository hosting solutions
 - Initial prototype implementation
 - Enterprise stress testing and evaluation of technical capabilities
 - Soliciting feedback from experts in R infrastructure and automation (`R-Hub`,
